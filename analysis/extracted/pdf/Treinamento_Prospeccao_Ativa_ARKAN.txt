@@ -1,0 +1,254 @@
+=== PAGE 1 ===
+Treinamento de
+Prospecção Ativa
+Rotina , script, CRM e gestão operacional
+ARKAN
+ARKAN | Prospecção Ativa 01
+
+=== PAGE 2 ===
+Mapa do módulo
+ARKAN | Prospecção Ativa 02• Mentalidade: a prospecção ativa como linha de produção de oportunidades
+• Processo operacional: lista → SolarZap → ligação → visita → venda
+• Rotina de execução: horários -chave, blocos diários e metas
+• Registro e gestão: caderno, planilha Excel e atualização do CRM
+• Abordagem comercial: script padrão, gatekeeper, decisor e pedido de visita
+• Acompanhamento: objeções, confirmação da visita, indicadores e cultura de vendas
+
+=== PAGE 3 ===
+ARKAN | Prospecção Ativa 03
+A lógica da prospecção
+Cada etapa tem um objetivo específico. A ligação 
+não precisa vender: ela precisa avançar o lead.
+01 Ao ligar, o objetivo é ser atendido
+02 Ao ser atendido, o objetivo é falar com o decisor
+03 Ao falar com o decisor, o objetivo é agendar visita
+04Ao agendar visita, o objetivo é fazer a visita acontecer
+05Ao realizar a visita, o objetivo é fazer a venda acontecer
+
+=== PAGE 4 ===
+Processo operacional da prospecção ativa
+ARKAN | Prospecção Ativa 041
+Montar a lista
+Google, bases próprias 
+ou plataformas como 
+B2BLeads2
+Subir no 
+SolarZap
+Importar os leads e 
+deixar a operação 
+pronta para trabalhar3
+Executar blocos 
+de ligação
+Atacar os horários 
+mais produtivos e 
+cumprir a meta diária4
+Registrar 
+rapidamente
+Usar o caderno 
+durante a operação 
+para não perder ritmo5
+Mover no CRM
+Atualizar a etapa real 
+do lead dentro da 
+pipeline6
+Confirmar visita e 
+avançar
+Garantir presença, 
+visita realizada e 
+continuidade comercial
+Regra operacional: o vendedor trabalha em velocidade no caderno e garante a verdade operacional no SolarZap.
+
+=== PAGE 5 ===
+Construção da base e preparação da operação
+ARKAN | Prospecção Ativa 05Fontes e critérios mínimos Segmentação por horário e contexto
+• Fontes: Google, bases antigas, indicações, listas
+compradas …
+• Cada lead deve ter, de preferência, nome , 
+empresa (se for aplicável ), telefone, cidade, 
+segmento e origem da lista
+• Excluir ou sinalizar contatos claramente inválidos 
+antes de começar o bloco• 9h–11h: forte para setores com operação 
+administrativa e comercial
+• 14h–16h: boa janela para conversar com quem 
+decide e fechar agenda
+• Noite: útil para pizzarias, restaurantes, 
+conveniências e operações noturnas/24h
+• O vendedor não liga “quando dá”: ele liga no 
+horário em que o setor atende melhor
+
+=== PAGE 6 ===
+ARKAN | Prospecção Ativa 06
+Rotina antes de resultado
+Sem bloco de prospecção, meta diária e revisão 
+do CRM, a prospecção vira improviso.
+Blocos recomendados
+• 08h30 –09h00 | preparação da lista
+• 09h00 –11h00 | bloco pesado de ligação
+• 11h00 –11h30 | atualização rápida do CRM e follow -ups
+• 14h00 –16h00 | segundo bloco pesado de ligação
+• 16h00 –17h00 | retornos, confirmações e organização do dia 
+seguinteFechamento diário
+• Ligações
+• Atendidas
+• Decisores
+• Visitas agendadas
+• Pendências de retorno
+
+=== PAGE 7 ===
+Metas diárias e semanais
+ARKAN | Prospecção Ativa 07Referência inicial —ajustar conforme segmento, qualidade da lista e região
+60 ligações/dia 20 atendidas 6 decisores
+2–3visitas 
+agendadas/dia300 ligações/semana 10-15visitas 
+agendadas/semana
+Métricas obrigatórias: ligações, atendidas, decisores, visitas agendadas, visitas realizadas, fechamentos e 
+faturamento.
+
+=== PAGE 8 ===
+Registro em caderno: velocidade operacional
+ARKAN | Prospecção Ativa 08Toda semana, o vendedor monta a folha -base para acompanhar produção diária.
+Data Ligações Atendidas Decisores Visitas Ag. Visitas Real. Fechamentos Faturamento
+Seg
+Ter
+Qua
+Qui
+Sex• O caderno é a ferramenta de 
+rapidez durante o bloco de 
+ligação
+• No fim do bloco, consolidar o 
+que aconteceu e atualizar o 
+SolarZap
+• O que não foi registrado no 
+caderno e no CRM não entra na 
+gestão
+
+=== PAGE 9 ===
+Caderno, Excel e SolarZap: papéis diferentes
+ARKAN | Prospecção Ativa 09Caderno Velocidade Registrar chamadas e resultados enquanto o vendedor está em execução.
+Excel Gestão Consolidar histórico, comparar semanas, calcular taxas e acompanhar o time.
+SolarZap Operação Refletir a verdade do lead, movimentar a pipeline e dar continuidade comercial.
+
+=== PAGE 10 ===
+ARKAN | Prospecção Ativa 10Pipeline no SolarZap
+O lead precisa estar na etapa em que ele 
+realmente está —nem adiantado, nem 
+parado.
+Evento na prospecção Etapa sugerida no CRM
+Lead importado da lista Novo Lead
+Atendeu ? Respondeu
+Falou com o decisor Chamada Realizada
+Ligação virou visita Visita Agendada
+Visita aconteceu Visita Realizada
+Processo comercial segue Aguardando Proposta → Negociação → Contrato
+
+=== PAGE 11 ===
+Script padrão: abertura e condução
+ARKAN | Prospecção Ativa 11Estrutura da ligação Fala-base sugerida
+• Abertura leve e identificação da empresa
+• Gancho curto: “quero te fazer uma pergunta 
+rápida”
+• Conexão com a realidade da empresa e custo de 
+energia
+• Pergunta para descobrir quem decide
+• Convite objetivo para a visita“Bom dia, tudo bem? Falo com a [ empresa ]?
+Qual o seunome ?
+Prazer [pessoa ], aqui é o [nome]. Eu estava
+pesquisando por [tipode negócio ] aqui em[cidade ] e 
+encontrei vocês ! Eu queria te fazer uma pergunta bem 
+rápida:
+hoje vocês têm um gasto relevante com energia 
+elétrica aí na empresa?
+Show [ pessoa ]! Nós trabalhamos com energia
+solar e conseguimos praticamente zerar essa
+conta . Estou falando com algumas empresas para 
+identificar onde faz sentido uma visita rápida de 
+análise, sem compromisso. Quem normalmente cuida 
+dessa parte aí com vocês?”
+
+=== PAGE 12 ===
+Gatekeeper, decisor e pedido de agenda
+ARKAN | Prospecção Ativa 12Quando quem atendeu não decide Quando você fala com o decisor
+“Perfeito. E quem costuma olhar isso por aí?”
+“Ela está disponível agora?”
+Se não estiver: “Sem problema. Qual o melhor horário 
+para eu falar com ela?”“Hoje vocês já chegaram a avaliar energia solar ou 
+alguma alternativa para reduzir esse custo?”
+“O que fazemos é uma visita rápida para entender a 
+operação e montar o melhor projeto especialmente
+para vocês .”
+“Faz mais sentido para você no diaX, as X horas 
+ou no diaY, as Y horas?”
+
+=== PAGE 13 ===
+Objeções mais comuns e resposta curta
+ARKAN | Prospecção Ativa 13“Me manda no 
+WhatsApp”“Eu atépoderia mandar, mas nóstrabalhamos com projetos realmente personalizados , pravocê
+nãoser pego de surpresa ... Precisamos entender a suanecessidade no curto , médio e longo
+prazo , e a visita é ideal praisso.”
+“Agora estou 
+ocupado” “Tranquilo. Qual horário fica melhor para eu te retornar, ainda hoje ou amanhã?”
+“Não tenho interesse” “Sem problema. Só para eu não insistir errado: vocês já resolveram isso ou nunca chegou a 
+fazer sentido avaliar?”
+“Já temos energia 
+solar”“Perfeito. Vocês estão 100% satisfeitos com o que foi feito ou ainda existe algum ponto abaixo 
+do esperado?”
+
+=== PAGE 14 ===
+ARKAN | Prospecção Ativa 14
+Confirmar visita também vende
+Agendar não basta. O vendedor precisa garantir 
+presença e reduzir no -show.
+Regra de confirmação
+• No mesmo dia do agendamento
+• No dia anterior à visita
+• No próprio dia, antes do horário combinadoScript simples
+“[Nome], tudo certo? Passando para 
+confirmar nossa visita de [dia], às [horário]. 
+Segue confirmado?”
+
+=== PAGE 15 ===
+Indicadores e rotina de gestão comercial
+ARKAN | Prospecção Ativa 15Taxas que precisam ser acompanhadas Ritual diário do gestor
+• Taxa de atendimento = atendidas ÷ligações
+• Taxa de decisor = decisores ÷atendidas
+• Taxa de agendamento = visitas agendadas ÷
+decisores
+• Taxa de realização = visitas realizadas ÷visitas 
+agendadas
+• Taxa de fechamento = fechamentos ÷visitas 
+realizadas• Revisar números do dia anterior e pendências de 
+retorno
+• Verificar quem está abaixo da meta de ligações
+• Conferir agenda de visitas confirmadas e em risco
+• Cobrar atualização fiel do CRM
+• Fechar a semana olhando gargalo: lista, abertura, 
+decisor, agenda ou visita
+
+=== PAGE 16 ===
+ARKAN | Prospecção Ativa 16
+Cultura comercial que precisa 
+ser instalada
+Quem não prospecta depende da sorte. Quem 
+registra e mede cria previsibilidade.
+Não negociáveis do time
+• Meta diária visível e cobrada
+• Blocos fixos de prospecção
+• Registro no caderno e no SolarZap
+• Lead parado não existe: toda etapa precisa refletir a 
+realidade
+• Prospecção é rotina, não evento esporádicoFrases -chave
+• A ligação não precisa vender. Ela 
+precisa avançar.
+• Quem não mede, não melhora.
+• Quem não registra, perde lead.
+
+=== PAGE 17 ===
+ARKAN | Prospecção Ativa 17
+Resumo do módulo
+Lista certa.
+Bloco certo.
+Registro certo.
+CRM certo.
+Visita certa.
+O papel do vendedor é transformar volume em agenda, 
+agenda em visita e visita em venda.

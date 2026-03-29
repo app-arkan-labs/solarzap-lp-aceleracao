@@ -1,0 +1,21 @@
+node_modules/
+dist/
+.DS_Store
+.env
+*.log
+
+# Arquivos pesados (O Portainer/VPS vai baixar o vídeo no build via Dockerfile)
+public/hero/solarzap-hero-video-wvga.mp4
+IMG_7885.MOV
+IMG_7890.MOV
+IMG_7889.MOV
+
+# Temporários
+context.tar.gz
+dist.zip
+auth.json
+stack_final_recovery.yml
+deploy_vps.py
+deploy_final.py
+rollback.py
+stack.yml

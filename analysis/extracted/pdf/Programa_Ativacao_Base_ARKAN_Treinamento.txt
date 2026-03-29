@@ -1,0 +1,314 @@
+=== PAGE 1 ===
+Treinamento completo
+Programa de
+Ativação de Base
+Modelo ARKAN para organizar a base, destravar 
+o funil, recuperar oportunidades, gerar prova 
+social e transformar clientes ativos em 
+promotores da marca.
+Mapear Categorizar Ativar Medir
+ARKANPlaybook de treinamento 
+comercial
+
+=== PAGE 2 ===
+Por que este programa vem primeiro
+A base já existente é o canal mais rápido para gerar agenda, inteligência comercial e fechamento.
+02
+01Fluxo imediato
+Em vez de depender só de lead novo, a 
+operação reaproveita contatos que já 
+demonstraram interesse e acelera o topo, meio 
+e fundo do funil.
+02Leitura real de mercado
+As reativações mostram onde a venda trava: 
+preço, timing, prioridade, insegurança, tomada 
+de decisão ou falha de follow -up.
+03Ativo estratégico
+Clientes ativos deixam de ser apenas carteira 
+atendida e passam a gerar prova social, 
+depoimentos e indicações qualificadas.
+Regra central: nenhum contato pode ficar sem categoria, responsável, próxima ação e data da próxima ação.
+
+=== PAGE 3 ===
+Arquitetura do Programa de Ativação de Base
+Cinco etapas simples, sequenciais e operáveis pelo time comercial.
+0301
+Mapear a base
+Leads de WhatsApp, CRM, 
+planilhas antigas, 
+propostas, visitas e 
+clientes ativos.02
+Planilhar e 
+limpar
+Uma base única com 
+dados essenciais, histórico 
+resumido e status atual.03
+Categorizar
+Separar por estágio 
+comercial e por objetivo da 
+reativação.04
+Executar a 
+cadência
+WhatsApp, áudio, ligação, 
+nova visita, prova social e 
+indicação.05
+Medir e ajustar
+KPIs, objeções, gargalos e 
+taxa de avanço por 
+categoria.
+Saída esperada: base estruturada, fila operacional clara e funil antigo voltando a se mover com previsibilidade.
+
+=== PAGE 4 ===
+Base única: como a planilha deve ser montada
+A planilha não é só cadastro: ela precisa guiar a execução diária.
+04
+Campos obrigatórios
+Identificação: nome, telefone, cidade/bairro e origem.
+Histórico: conversa, ligação, visita, proposta, fechamento e 
+motivo de perda.
+Situação atual: status, substatus, temperatura e responsável.
+Próxima ação: canal, data, objetivo e resultado da última 
+tentativa.
+Clientes ativos: satisfação, depoimento, indicações e comissão 
+liberada.Lógica de controle
+Nenhum contato sem dono
+Cada registro precisa de um responsável nominal.
+Nenhum contato sem próxima ação
+Se não há data, não há gestão; há esquecimento.
+Status padronizado
+Evita interpretações subjetivas e retrabalho do time.
+Objeção registrada
+Transforma follow -up em inteligência comercial.
+Estrutura mínima de abas: Base geral | Leads por categoria 
+| Clientes ativos | Indicações | Dashboard.
+
+=== PAGE 5 ===
+Segmentação da base: quatro grupos operacionais
+Toda a ativação parte desta pergunta: em que estágio o contato está e qual é a próxima microconversão?
+0501Lead com conversa inicial parada
+Objetivo: reativar e agendar ligação.WhatsApp + ligação curta
+02Lead com ligação feita e sem visita
+Objetivo: retomar e agendar visita.Contexto + oferta de agenda
+03Lead visitado, proposta enviada e sem fechamento
+Objetivo: entender a objeção, personalizar e trazer nova visita.Histórico + quebra de objeção
+04Cliente ativo
+Objetivo: pesquisar satisfação, pedir depoimento e ativar indicação.Relacionamento + prova social
+A regra da segmentação é simples: cada grupo tem linguagem, objetivo e cadência próprios.
+
+=== PAGE 6 ===
+Funil operacional ARKAN
+O programa não só reativa contatos; ele reconstrói o avanço do contato até a indicação.
+06Base mapeada
+Todo contato organizado e categorizado.
+Contato acionado
+Primeiro contato executado com cadência.
+Ligação / Visita agendada
+Microconversão principal de cada grupo.
+Proposta ajustada / Fechamento
+Retomada da negociação com objeção tratada.
+Cliente satisfeito → Depoimento 
+→ Indicação
+Expansão do ativo comercial da empresa.
+O indicador crítico do funil é a taxa de avanço entre uma microconversão e a próxima.
+
+=== PAGE 7 ===
+Cadência 1: leads travados no WhatsApp
+Objetivo único: reativar e agendar ligação. Cada contato deve avançar apenas um passo.
+07D0
+WhatsApp texto
+Retomada curta + 
+pergunta objetiva . 
+Objetivo de agendar
+ligaçãoD1
+Ligação
+Tentativa direta com 
+abertura consultiva.D3
+WhatsApp 
+áudio
+Tom humano, 20 –40 
+segundos.D5
+WhatsApp texto
+Oferta objetiva de 2 
+horários.D8
+Ligação
+Última tentativa forte 
+para agenda.D15
+Encerramento 
+leve
+Fecha o ciclo e 
+prepara reciclagem.D30
+Reentrada
+Novo gancho: 
+economia, timing ou 
+prioridade.Mensagem -base
+“Sua conversa com a gente ficou em aberto. 
+Ainda faz sentido olhar sua situação de 
+energia?”Critério de pausa
+Se não respondeu, pausar e reentrar 
+em 30 dias com novo contexto.
+
+=== PAGE 8 ===
+Cadências 2 e 3: pós -ligação e pós -proposta
+A partir daqui, o follow -up precisa ser mais consultivo e mais personalizado.
+08
+Grupo 2 | Pós -ligação 
+parado
+D0: WhatsApp retomando a ligação e propondo visita.
+D1: Ligação curta para fechar agenda.
+D3: WhatsApp com prova ou benefício concreto.
+D6: Nova tentativa de ligação .
+D10: Mensagem com duas opções fechadas de horário.
+D15: Encerramento leve e reciclagem futura.
+Objetivo: converter interesse em visita 
+agendada.Grupo 3 | Pós -visita e 
+proposta
+Antes do D0: ler o histórico e marcar a objeção principal.
+D0: WhatsApp personalizado sobre o motivo do travamento.
+D1: Ligação para validar objeção real e momento.
+D4: Mensagem com quebra de objeção específica.
+D7: Ligação final para nova visita conduzindo aofechamento .
+D15: Encerramento leve e reciclagem futura .
+Objetivo: reabrir negociação com proposta ajustada e 
+nova visita.
+
+=== PAGE 9 ===
+Clientes ativos: satisfação, prova social e indicação
+O cliente satisfeito deixa de ser fim de processo e passa a ser uma alavanca comercial.
+091
+Pesquisa de satisfação
+Pergunta simples: nota de 0 a 10 
+e principal motivo.2
+Depoimento
+Se satisfeito, pedir áudio ou 
+vídeo curto com experiência.3
+Programa de indicação
+Explicar os 3% para quem indica 
+e para quem compra.4
+Print + contato
+Cliente conversa com amigo; 
+envia print; vendedor assume o 
+fluxo.
+Regra operacional do programa: se o novo lead não chamar a empresa, o vendedor entra em contato 1 dia após receber o print e 
+segue a qualificação normalmente.
+
+=== PAGE 10 ===
+Scripts essenciais de ativação
+A linguagem deve ser curta, humana e orientada para a próxima microconversão.
+10
+Lead travado no WhatsApp
+“Sua conversa com a gente ficou em aberto. Ainda faz sentido olhar 
+sua situação de energia? Se sim, faço uma ligação rápida hoje.”Pós-ligação parado
+“Depois da nossa ligação, o próximo passo mais inteligente é uma 
+visita rápida para validar o cenário. Tenho terça 15h ou quarta 10h.”
+Pós-proposta sem fechamento
+“Quero entender se o ponto que travou foi valor, timing ou alguma 
+insegurança na decisão. Dependendo disso, ajustamos a abordagem.”
+Cliente satisfeito
+“Como sua experiência foi positiva, queria te convidar para o 
+programa de indicação. Você lembra de 3 pessoas que poderiam ter 
+interesse?”
+Regra de ouro: não vender tudo na primeira mensagem. O objetivo do contato é apenas o próximo avanço.
+
+=== PAGE 11 ===
+Objeções mais comuns e resposta padrão
+A equipe precisa tratar objeção com método, não com improviso.
+11Objeção Resposta -padrão
+“Agora não é prioridade” Validar o momento, mas abrir espaço para revisar se existe um caminho viável agora ou mais à frente.
+“Está caro” Reconectar valor com retorno e revisar se o ajuste precisa estar na proposta, condição ou estratégia.
+“Vou pensar” Tirar a negociação do limbo: perguntar o que ainda falta para decidir com segurança.
+“Preciso falar com meu 
+esposo(a)/sócio”Trazer os decisores para uma conversa única e objetiva.
+“Estou sem tempo” Oferecer conversa de 10 minutos só para definir se vale avançar.
+“Já estou vendo com outra 
+empresa”Abrir espaço para comparativo e decisão mais segura . Se possível , solicite a proposta concorrente .
+
+=== PAGE 12 ===
+KPIs que o gestor precisa acompanhar
+Poucos indicadores, mas todos conectados a execução, avanço e receita recuperada.
+12
+Base
+Total mapeado
+% categorizado
+% com próxima ação
+% sem resposta > 30 dias
+Execução
+Contatos acionados/dia
+Taxa de resposta
+Taxa de conexão em ligação
+% de cadências concluídas
+Conversão
+Ligações agendadas
+Visitas agendadas
+Propostas reabertas
+Fechamentos vindos da base
+Clientes ativos
+Taxa de satisfação
+Depoimentos recebidos
+Clientes que indicaram
+Vendas por indicação
+Leitura estratégica obrigatória: top 5 objeções, receita recuperada da base e participação da base nos novos agendamentos.
+
+=== PAGE 13 ===
+Rotina operacional e governança
+O programa só funciona se a execução diária for curta, disciplinada e mensurável.
+131
+Bloco 1 | Organizar
+Atualizar respostas do dia anterior.
+Mover cada contato para o status 
+correto.
+Definir fila e prioridades do dia.2
+Bloco 2 | Executar
+Disparar WhatsApps da cadência.
+Fazer ligações pendentes.
+Registrar resultado de cada tentativa.3
+Bloco 3 | Inteligência
+Anotar objeções e gargalos.
+Ajustar script se necessário.
+Replanejar pausas e reentradas.
+Reunião semanal do gestor: revisar KPIs, objeções, cadências concluídas, oportunidades reabertas e oportunidades que precisam
+entrar em reciclagem.
+
+=== PAGE 14 ===
+Plano de implantação em 7 dias
+Sequência sugerida para tirar o programa do papel e colocar a cadência em produção.
+141
+Dia 1
+Consolidar todas as 
+fontes da base em uma 
+única planilha.2
+Dia 2
+Limpar dados, nomear 
+responsáveis e 
+padronizar status.3
+Dia 3
+Categorizar por grupo 1, 
+2, 3 e 4.4
+Dia 4
+Montar cadências e 
+scripts operacionais.5
+Dia 5
+Iniciar a ativação dos 
+grupos 1 e 2.6
+Dia 6
+Entrar em grupo 3 e 
+clientes ativos.7
+Dia 7
+Conferir KPIs iniciais, 
+objeções e ajustes de 
+processo.
+Saída esperada ao fim da semana: base organizada, cadência rodando, primeiras respostas entrando e objeções já 
+mapeadas.
+
+=== PAGE 15 ===
+Definição de sucesso
+Quando o programa está 
+funcionando?
+100% da base está organizada, categorizada e com próxima 
+ação.
+Leads antigos voltam a responder, ligar e agendar visita.
+Propostas perdidas começam a ser reabertas com método.
+Clientes ativos geram depoimentos e indicações recorrentes.
+O time passa a operar com inteligência, não apenas tentativa.
+Toda operação comercial da ARKAN deve começar por aqui: 
+mapear, categorizar, ativar e medir.
+15

@@ -1,0 +1,222 @@
+=== SLIDE 1 ===
+Playbook de Vendas Solar
+Treinamento direto para Pré-vendas, Vendas e Pós-vendas
+Pré-vendas
+Vendas
+Pós-vendas
+Baseado no playbook operacional da ARKAN para transformar lead frio em contrato assinado e recomendação.
+Treinamento interno de vendas
+1
+
+=== SLIDE 2 ===
+Fundamento
+Venda consultiva: o cliente compra a transformação
+O playbook parte de uma mudança de mentalidade: a venda começa pela emoção e é justificada pela lógica.
+Venda a emoção, não o painel
+O cliente não quer “X kWp”. Ele quer paz com a conta, conforto no uso da casa e previsibilidade no orçamento.
+Economia para a família
+A economia abre a porta. O cliente quer liberar dinheiro para a vida real: filhos, viagens e alívio no orçamento.
+Conforto sem culpa
+O benefício emocional é usar ar condicionado e eletrodomésticos sem medo da conta no fim do mês.
+Segurança e tranquilidade
+Com tarifa instável e blecautes, solar vira previsibilidade e uma espécie de “seguro energético”.
+Regra de ouro para todo o treinamento
+Desde o primeiro WhatsApp até o fechamento, toda conversa deve conectar conta de luz, conforto e previsibilidade a um próximo passo claro.
+2
+
+=== SLIDE 3 ===
+Mapa
+Funil ARKAN e dono de cada etapa
+O processo fica simples quando cada papel tem um objetivo único e um indicador claro de sucesso.
+Novo
+Lead
+Respondeu
+Chamada
+Agendada
+Visita
+Agendada
+Proposta
+Apresentada
+Negociação
+Vendido /
+Pós-venda
+Pré-vendas
+• IA: responder em segundos e levar para ligação.
+• IA/SDR: qualificar em BANT e vender a visita.
+Vendas
+• Vendedor investiga, apresenta a proposta no local e tenta fechar na visita.
+• Se não fechar, entra follow-up de valor para negociação até a venda.
+Pós-vendas
+• Ativa operação, coleta avaliação em 90 dias e abre recomendação com comissão.
+60%
+Resposta
+40%
+Agend. ligação
+50%
+Visita agendada
+30%
+Fecha na visita
+70%
+Negociação
+1
+Avaliação
+1
+Indicação
+3
+
+=== SLIDE 4 ===
+Pré-vendas
+Pré-vendas 1: engajamento imediato no Novo Lead
+Velocidade vence esta etapa. O papel da IA é simples: responder rápido, pegar um dado-chave e agendar a ligação com o humano.
+1. Responder em segundos
+“Vi que você se cadastrou para reduzir sua conta de luz, correto?”
+2. Coletar 1 dado-chave
+Pedir o valor médio da conta para estimar potencial de economia.
+3. Validar oportunidade
+“Com uma conta de R$X, seu potencial de economia é excelente.”
+4. Fechar horário
+Sempre oferecer 2 opções de horário para a ligação ainda hoje.
+Script-base do agente
+“Olá [Nome], aqui é o assistente da [Empresa]. Vi seu cadastro para reduzir a conta de luz. Para eu te dar uma estimativa gratuita, qual é o valor médio da sua conta? ... Qual horário você prefere para uma ligação de 5 minutos: [X] ou [Y]?”
+Objetivo da etapa
+Mover o lead para Chamada Agendada o mais rápido possível. A IA ganha a atenção; o SDR ganha a confiança.
+4
+
+=== SLIDE 5 ===
+Pré-vendas
+Pré-vendas 2: ligação SDR que vende a visita
+A call não existe para vender o sistema. Ela existe para qualificar com BANT, gerar confiança e agendar a visita técnica com todos os decisores.
+Rapport
+• Sorrir ao telefone
+• Usar o nome do cliente
+• Espelhar tom e ritmo
+B
+Budget
+Se a parcela for igual ou menor que a conta, isso faz sentido?
+A
+Authority
+Quem participa da decisão? O cônjuge estará na visita?
+N
+Need
+Além do valor alto, o que mais incomoda hoje?
+T
+Timing
+Quando você quer ver sua primeira conta com economia?
+Abertura recomendada
+“Meu objetivo aqui é bem rápido: entender se conseguimos te ajudar a zerar essa conta e, se sim, agendar uma visita técnica gratuita.”
+Fechamento da visita
+Sempre feche com alternativas: “Nosso especialista estará na sua região. O que funciona melhor para vocês: terça às 18h ou quarta às 19h?”
+5
+
+=== SLIDE 6 ===
+Vendas
+Vendas 1: a visita técnica é o palco do fechamento
+O closer precisa executar dois checklists ao mesmo tempo: o técnico e o comercial. A visita não é inspeção pura; ela é investigação para fechar.
+Checklist técnico
+• Confirmar dados cadastrais e contato.
+• Levantar padrão elétrico, tensão, aterramento e local do inversor.
+• Mapear telhado, estrutura, orientação, inclinação e sombras.
+• Registrar fotos do telhado, padrão, inversor e caminhos de tubulação.
+Checklist comercial
+• Garantir todos os decisores na sala.
+• Começar com situação e rapport.
+• Aprofundar problema e custo da inação.
+• Fazer o cliente pedir a solução antes da proposta.
+SPIN na visita
+Situação
+Problema
+Implicação
+Need-payoff
+Meta prática
+Nunca subir no telhado sem antes construir conexão e confirmar a dor real.
+6
+
+=== SLIDE 7 ===
+Vendas
+Vendas 2: apresentar a proposta e pedir a venda na própria visita
+O closer não vai embora para “preparar proposta”. Ele ancora no problema atual, apresenta a troca financeira e pede a decisão no local.
+1. Ancorar no problema
+Hoje existe um “aluguel” mensal para a concessionária.
+2. Trocar despesa por investimento
+A proposta muda o dinheiro de lugar: sai da conta, entra no ativo.
+3. Apresentar a parcela primeiro
+Financiamento deve aparecer como parcela igual ou menor que a conta.
+4. Só depois abrir o valor total
+O total entra depois que o valor da solução já foi entendido.
+5. Criar urgência real
+Taxa promocional, agenda limitada e prova social local.
+6. Pedir a venda
+Alternativa ou fechamento assumido: “à vista ou financiado?”
+7
+
+=== SLIDE 8 ===
+Vendas
+Vendas 3: follow-up de valor e quebra de objeções
+Se o lead não fechou na visita, a operação entra em cadência. Cada contato precisa agregar valor, e não apenas perguntar “decidiu?”.
+D+1
+Retomar contexto e abrir dúvida
+D+3
+Levar prova social / caso parecido
+D+5
+Ligação com urgência real
+D+7
+Breakup que força resposta
+No-show
+Mensagem imediata: “Imagino que tenha surgido um imprevisto. Ajudar você a economizar R$X ainda é prioridade? Qual o melhor horário para reagendarmos hoje?”
+“Está caro”
+Reancorar: caro comparado a quê? Compare com a conta vitalícia e volte ao financiamento.
+“Vou pensar”
+Isolar a objeção real: preço, confiança, solução técnica ou outra pessoa na decisão?
+“Financiamento?”
+Explicar como troca de uma dívida infinita por um ativo que tem fim e fica com o cliente.
+“Meu cônjuge”
+Erro de autoridade. Reagendar rápido com todos na conversa.
+8
+
+=== SLIDE 9 ===
+Pós-vendas
+Pós-vendas: satisfação, avaliação e indicação
+A operação não termina em Vendido. O lucro mais barato vem da prova social e da recomendação feita no pico de satisfação.
+1. Venda concluída
+Ativar operação e confirmar experiência inicial.
+2. Aguardar maturação
+Dar tempo para a economia aparecer na prática.
+3. Contato em 90 dias
+Com a economia surgindo, entrar em contato via automação ou manualmente.
+4. Pedir avaliação
+Link do Google Meu Negócio + pedido pessoal.
+5. Abrir indicação
+Ativar programa de comissão de 3%  para quem indica e quem compra.
+Pedido de avaliação
+“Fico muito feliz em ouvir isso. Você poderia me ajudar pessoalmente deixando uma avaliação rápida sobre como foi meu atendimento? É rapidinho e ajuda outras famílias a economizar também.”
+Pedido de indicação
+“Quero ativar seu programa de comissão. Quem são as duas primeiras pessoas do seu trabalho, família ou amigos que também reclamam da conta de luz?”
+9
+
+=== SLIDE 10 ===
+Resumo
+Checklist final por área
+Use isso como referência operacional no treinamento: cada etapa tem um único objetivo e uma única decisão a perseguir.
+Pré-vendas
+• Responder rápido.
+• Pedir conta média.
+• Agendar ligação com 2 opções de horário.
+• Fazer BANT sem interrogatório.
+• Vender a visita, não o sistema.
+• Garantir todos os decisores na visita.
+Vendas
+• Executar checklist técnico.
+• Investigar com SPIN.
+• Ancorar no custo atual da energia.
+• Apresentar a parcela antes do total.
+• Criar urgência legítima.
+• Pedir a venda antes de sair da visita.
+Pós-vendas
+• Confirmar experiência após venda.
+• Reaparecer no momento certo.
+• Pedir avaliação por mensagem pessoal.
+• Transformar satisfação em indicação.
+• Ativar comissão de 5% com clareza.
+• Fechar o ciclo com prova social.
+Treinar bem significa padronizar a conversa certa em cada etapa.
+10

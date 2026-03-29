@@ -1,0 +1,356 @@
+=== PAGE 1 ===
+Treinamento Comercial
+SolarZap
+Processo comercial definitivo da ARKAN para energia 
+solar -da entrada do lead atéProjeto Pago e Coletar
+Avaliação .
+Fluxo operacional Automacoes Agentes de IA
+O modulo mostra o passo a passo no CRM, os gatilhos de 
+cada etapa e o papel do vendedor em cada decisao.ARKAN
+Treinamento interno de vendas1
+Treinamento interno de vendas
+
+=== PAGE 2 ===
+Objetivo
+O vendedor precisa dominar o processo, operar o SolarZap sem fricçao e acelerar o lead para a proxima etapa correta.
+1Executar o fluxo comercial
+Conduzir o lead do primeiro contato atéo 
+fechamento, respeitando os criterios de 
+mudança de etapa e o papel de cada
+responsável .
+2Usar o CRM como sistema 
+operacional
+Registrar ligações , gerar propostas, 
+agendar visitas, registrar resultado da 
+visita e manter o pipeline sempre 
+atualizado.
+3Aproveitar automações
+Seguir os modais e gatilhos do 
+SolarZap para não perder 
+contexto nem atrasar o próximo
+passo.
+4Operar com apoio da IA
+Usar os agentes para qualificar, recuperar 
+no-show e reengajar leads sem terceirizar 
+a estrategia comercial.
+5Negociar e destravar
+financiamento
+Quebrar objeções , puxar decisão , 
+conduzir documentação e nunca deixar o 
+cliente sozinho no processo.
+6Fechar com disciplina
+Levar para contrato, pagamento, 
+margem de lucro e coleta de 
+avaliação com dados completos 
+no CRM.
+Resultado esperado: qualquer vendedor treinado consegue reproduzir a operação da ARKAN com padrão , 
+velocidade e rastreabilidade.2
+
+
+=== PAGE 3 ===
+Pipeline comercial completo
+Fluxo macro do processo atual: da entrada do lead ate a coleta de avaliação 90 dias após o pagamento.
+Novo Lead1
+Respondeu2
+Chamada
+Agendada3
+Chamada
+Realizada4
+Aguardando
+Proposta5
+Proposta
+Pronta6
+Visita
+Agendada7
+Visita
+Realizada8
+Proposta em
+Negociacao9
+Financiamento10
+Aprovou
+Projeto11
+Contrato
+Assinado12
+Projeto
+Pago13
+Coletar
+Avaliação14
+Se o lead não comparecer a chamada, entra o fluxo de recuperação para reagendar call ou puxar BANT por mensagem e agendar visita.3
+
+
+=== PAGE 4 ===
+Quem faz o que em cada etapa
+O SolarZap automatiza o deslocamento operacional; o vendedor continua dono da estrategia, da conversa critica e do fechamento .
+Etapa / momento Vendedor Automação do CRM Agente de IA
+Novo Lead / RespondeuAcompanhar e validar contexto, assumir 
+quando necessario e garantir próximo passo.Engaja e qualifica com base 
+em BANT e guia para chamada 
+ou visita.
+Chamada Agendada / RealizadaConduzir a ligação , registrar resumo e decidir 
+proxima etapa.Modal de ligação , QR code, confirmação e 
+tela de registro.Não opera essa etapa; 
+lembretes funcionam melhor.
+Aguardando Proposta / 
+Proposta ProntaGerar proposta completa, revisar dados, 
+enviar mensagem certa e alinhar visita.Move lead, abre gerador, baixa PDF e 
+sugere a próxima ação .Não opera; vendedor lidera a 
+montagem da proposta.
+Visita / Negociação / 
+FinanciamentoFechar agenda, negociar objeções , coletar 
+docs e puxar decisao.Pós-visita , pergunta resultado e etapa 
+seguinte automaticamente.Recupera no -show, faz follow -
+up e acompanha financiamento.
+Aprovou / Contrato / PagoFormalizar, acompanhar assinatura, registrar 
+pagamento e margem.Tela final de comemoração e captura de 
+dados de venda.Nao opera; execução 100% 
+humana.4
+Não opera;
+
+=== PAGE 5 ===
+Da entrada do lead atéa chamada ou visita
+A fase inicial combina abordagem humanizada, qualificação por contexto e decisão rápida sobre o próximo passo do processo.
+Regras operacionais
+• Mensagens curtas, humanizadas e com uma 
+pergunta por vez.
+• Sempre oferecer 2 opcões de horário para 
+acelerar resposta.
+• Qualificar o lead com contexto de segmento, 
+consumo, timing e estrutura.
+• Quando o processo exigir ligação , o alvo da 
+etapa Respondeu e Chamada Agendada.
+• Quando a empresa preferir ir direto para visita, 
+o agente usa BANT e agenda a visita tecnica.BANT na pratica
+BBudget
+Se a parcela ficar igual ou 
+menor que a conta, faz 
+sentido avançar ?
+AAuthority
+Quem decide: sóo lead ouhá
+conjuge, sócio ou financeiro?
+NNeed
+Qual dor pesa mais: conta 
+alta, previsibilidade, 
+operação ou investimento?
+TTiming
+Resolver agora, até3 meses, 
+até6 meses ou ainda 
+avaliando?
+Decisão de saida desta fase
+• Se a venda passa por call: qualificar e agendar Chamada Agendada.
+• Se a venda vai direto para visita: coletar o essencial, agendar Visita 
+Agendada e salvar dados para proposta.
+• Se o lead sumir: entra o agente de Follow Up; se houver no -show, entra o 
+fluxo de Não Compareceu.5
+
+
+=== PAGE 6 ===
+Automacao de ligação no SolarZap
+O vendedor deve seguir exatamente o fluxo do modal para garantir rastreabilidade da call e movimentação correta do lead.
+1. Escolher iniciar a ligação
+2. Escanear, clicar emJáabri no celular
+3. Confirmar se realizou a ligação
+4. Registrar como foi a ligação
+Regras obrigatórias do vendedor
+• Pode escolher WhatsApp ou Telefone, mas ambos levam ao QR code.
+QR code.
+• Depois de abrir no celular, sempre voltar e confirmar se a call 
+aconteceu.
+• Se clicou em Sim, Realizei, preencher o resumo da ligação
+antes de continuar.antes de 
+• Se clicou emNão Realizei, o lead não deve avancar sem nova 
+açãoação
+comercial.6
+
+
+=== PAGE 7 ===
+Da chamada realizada para a proposta
+Depois do registro da ligacao, o CRM conduz o vendedor para mover etapa, gerar proposta e abrir o gerador completo.
+1. Confirmar a mudanca para Aguardando Proposta
+ 2. Escolher Gerar Proposta
+3. Abrir o gerador guiado
+Padrao esperado
+• Sempre mover para a etapa sugerida pelo modal quando a ligacao validou 
+interesse real.
+• Nao deixar a proposta para depois se as informacoes essenciais ja foram 
+coletadas.
+• Conferir todos os dados antes de gerar e baixar o PDF; a proposta precisa 
+sair pronta para a visita.7
+
+
+=== PAGE 8 ===
+Gerador de proposta: o que precisa ser preenchido
+O gerador vira o ponto central da operação : ele consolida dados tecnicos, comerciais, financeiros e cadastrais antes do PDF.
+11. Tipo de projeto
+Residencial, comercial, industrial, rural 
+ou usina solar.
+22. Local, consumo e conta
+Endereço , consumo, valor da conta e 
+informações de contexto.
+33. Equipamentos e estrutura
+Módulo , inversor, tipo de telhado/solo e 
+premissas técnicas do sistema.
+44. Pagamento
+Condição , valor total, desconto a vista e 
+bancos selecionados para financiamento.
+55. Personalização
+Observações , nome da empresa, CNPJ, 
+dados do cliente e CNPJ quando for PJ.
+66. Revisao final
+Conferir tudo, gerar o PDF e baixar a 
+proposta pronta para 
+envio/agendamento.
+Regra de financiamento
+Ao selecionar Financiamento bancário , o vendedor pode escolher quantos bancos quiser, configurando as taxas de juros .8
+
+
+=== PAGE 9 ===
+Proposta pronta -> agendar visita
+Depois de gerar o PDF, o CRM baixa a proposta, sugere a próxima etapa e abre o fluxo de mensagem para marcar a visita técnica .
+1Baixar proposta
+Gerar e baixar PDF 
+com todos os dados 
+conferidos.
+2Abrir mensagem
+O CRM sugere a 
+proxima etapa e 
+preenche uma 
+mensagem inicial.
+3Cruzar agenda
+Definir horários
+conforme a agenda do 
+vendedor de campo.
+4Enviar e confirmar
+Mandar a mensagem e 
+esperar a resposta do 
+lead.
+Se o lead aceitar a visita
+• Responder natela que o lead aceitou.
+• Abrir o agendamento e registrar data, hora e 
+responsávelresponsável
+de campo.de 
+• Garantir que os decisores estejam presentes na visita.
+Se o lead não aceitar ou sumir
+• Seguir negociando o horario ate achar encaixe viavel.
+• Se parar de responder, o follow -up automatizado entra na cadencia 
+definida.
+• Se houver objeção , o vendedor assume a conversa e remove a fricção .9
+
+
+=== PAGE 10 ===
+Pós-visita : registrar resultado e direcionar o lead
+Três horas depois do horário marcado, o SolarZap abre o fechamento da visita para o vendedor decidir o destino correto do lead.
+Visita
+RealizadaProposta em
+NegociacaoFinanciamentoAprovou
+ProjetoContrato
+Assinado
+Se entrar emNegociação
+• Manter contato continuo ate quebrar todas as 
+objeções .
+• Puxar forma de pagamento o quanto antes: 
+financiamento ou sem financiamento.
+• O alvo final dessa trilha é Aprovou Projeto.
+Se entrar em Financiamento
+• Coletar toda a documentação e conduzir a cotação com 
+bancos parceiros.
+• Nunca deixar o cliente sozinho nesse processo; o 
+vendedor acompanha ate a aprovação .
+• Quando aprovado, mover para Aprovou Projeto e 
+formalizar contrato.10
+
+
+=== PAGE 11 ===
+Playbook de negociação e financiamento
+Os dois momentos mais sensiveis do processo pedem linguagem simples, senso de urgencia e total condução do vendedor.
+Negociação
+• Abrir a conversa pela forma de pagamento: 
+financiamento ou sem financiamento.
+• Se o lead disser “ta caro”, separar objeção de valor total 
+valor total vs parcela e ajustar dentro da politica 
+comercial.
+• Se o lead disser “vou pensar”, descobrir o travamento 
+travamento real: condição , confiança , duvida
+técnicatécnica
+ou decisor.ou 
+• Mover para Aprovou Projeto quando ouvir sinais claros 
+claros como “fechado”, “pode seguir” ou “manda o 
+“manda o contrato”.
+Financiamento
+• Explicar o financiamento como troca de conta por parcela 
+previsivel, sem linguagem bancaria pesada.
+• Coletar documentos em pedidos curtos e confirmar cada 
+envio para evitar reprocesso.
+• Fazer follow -up de status: enviado, emanálise , pendência , 
+aprovado ou reprovado.
+• Se o banco reprovar, tentar ajustar entrada, prazo ou 
+banco antes de perder o lead.11
+
+
+=== PAGE 12 ===
+Agentes de IA que sustentam o processo
+Osagentes funcionam como se fossem um único atendimento continuo para o cliente, mas sempre empurrando o lead para a próxima etapa da pipeline.
+pipeline.
+1Agente de Respondeu
+Qualifica com BANT, coleta contexto 
+do lead, usa comentarios do CRM e 
+tenta levar para Chamada Agendada 
+ou Visita Agendada.
+2Agente de Não Compareceu
+Recupera o no -show sem gerar atrito, 
+diagnostica motivo e reage com 
+reagendamento de call ou BANT por 
+mensagem para agendar visita.
+3Agente de Follow Up
+Reengaja leads que pararam de 
+responder na cadencia padrao de 3h -
+1 dia -2 dias -3 dias -7 dias, 
+configuravel pelo vendedor.
+Sobre o funcionamento
+• O agente pode acessar comentários do lead, FAQ, objeções , depoimentos e informações da empresa para responder com contexto.
+• Se o vendedor mandar mensagem pelo WhatsApp vinculado ao agente, a IA é desativada para aquele cliente ate ser reativada na 
+interface.
+• Etapas operacionais como Chamada Realizada, Aguardando Proposta, Proposta Pronta, Visita Realizada, Aprovou Projeto e Projeto Pago 
+seguem sem agente dedicado.
+IA
+apoia
+processo12
+
+
+=== PAGE 13 ===
+Checklist operacional do vendedor
+Se estes pontos forem seguidos todos os dias, o pipeline ficaconfiável e o processo comercial escala com previsibilidade.
+Disciplina de CRM
+• Nunca encerrar uma ação sem 
+registrar o resultado.
+• Mover a etapa no momento certo, 
+não em lote no fim do dia.
+• Preencher comentários com 
+contexto útilpara o próximo contato 
+humano ou da IA.
+Disciplina comercial
+• Sempre puxar proximo passo claro: 
+call, visita, proposta, contrato ou 
+pagamento.
+• Nao deixar financiamento namão
+do cliente.
+• Nao perder timing após visita: a 
+decisão precisa andar.
+Momento de venda
+• Quando aprovar projeto, mandar 
+mandar contrato imediatamente.
+imediatamente.
+• Quando pagar, registrar custo, valor 
+valor da venda, margem, forma de 
+de pagamento e parcelas.
+• Depois do pagamento, conduzir a 
+conduzir a próxima experiencia ate a 
+ate a coleta de avaliação .
+Mensagem final do 
+treinamento
+O SolarZap não substitui o 
+vendedor. Ele organiza o 
+rítmo , reduz fricção e 
+entrega contexto para que a 
+equipe comercial venda 
+mais e melhor.
+Boas vendas !13
